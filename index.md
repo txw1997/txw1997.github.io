@@ -6,6 +6,6 @@ Master student at School of Computer and Information Technology, Beijing Jiaoton
 + Computer vision
 + Few-shot learning
 
-##Education
+## Education
 + B.A. in Materials Science and Engineering, 2015-2019
 + M.A. in Computer and Information Technology, 2019-
